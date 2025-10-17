@@ -1,4 +1,4 @@
-Ce reame est basé sur deux (2) fichier a savoir fichier index.html et style.css.
+Ce readme est basé sur deux (2) fichier a savoir fichier index.html et style.css.
 
 A. Explication du fichier HTML
 
