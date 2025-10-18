@@ -19,7 +19,7 @@ body {
 
 .card-hearder {
     background-color: white;
-    padding: 40px
+    padding: 30px
 
 }
 .card-hearder h2{
@@ -65,6 +65,9 @@ span {
     margin-top: 20px;
     font-weight: bold;
 
+}
+.button:hover{
+    background-color: #b3df2f;
 }
 
 .card-whyus {
